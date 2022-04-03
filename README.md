@@ -10,13 +10,9 @@ Steve was impresssed with our ability to set up Macros to help him evaluate a fe
 Overall, we can see that these stocks did much better in 2017 rather than 2018.
 
 ### Time Differences ###
-**2017 Updated**
 <img width="265" alt="VBA_Challenge_2017_Time" src="https://user-images.githubusercontent.com/101231388/161447983-4d78665d-6ac0-41d4-99c0-7462c50ad5cc.png">
-**2018 Updated**
 <img width="265" alt="VBA_Challenge_2018_Time" src="https://user-images.githubusercontent.com/101231388/161448003-443daa60-0dbb-454d-9b29-0aeea731e677.png">
-**2017 Original**
 <img width="267" alt="Original_Code_Time_2017" src="https://user-images.githubusercontent.com/101231388/161448006-61bedf02-8291-4317-b621-5ffc5a562d38.png">
-**2018 Original**
 <img width="268" alt="Original_Code_Time_2018" src="https://user-images.githubusercontent.com/101231388/161448010-d70eba44-693a-4689-a619-ccb66e219f30.png">
 Overall we see that our updated code runs in a fifth of the amount of time as our original code.
 
